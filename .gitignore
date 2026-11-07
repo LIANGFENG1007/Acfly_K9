@@ -4,3 +4,8 @@
 __pycache__/
 *.pyc
 *.pyo
+
+# IDE 代码索引缓存（体积巨大，不入库）
+.vscode/browse.vc.db
+.vscode/browse.vc.db-shm
+.vscode/browse.vc.db-wal

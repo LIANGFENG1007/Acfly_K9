@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>fly_k9</name>
+  <version>0.0.1</version>
+  <description>ROS 2 nodes for the Fly K9 project.</description>
+  <maintainer email="2137397742@qq.com">xhy-yyy</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>rclcpp</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
