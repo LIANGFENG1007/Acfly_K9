@@ -1,0 +1,12 @@
+{
+    "ROS2.distro": "humble",
+    "cmake.sourceDirectory": "/home/xhy/Acfly_k9/src/acfly_mavros_src/mavlink",
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

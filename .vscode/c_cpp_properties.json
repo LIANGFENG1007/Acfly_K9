@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/humble/include/**",
+        "/home/xhy/Acfly_k9/src/acfly_mavros_src/mavros/libmavconn/include/**",
+        "/home/xhy/Acfly_k9/src/acfly_mavros_src/mavros/mavros/include/**",
+        "/home/xhy/Acfly_k9/src/acfly_mavros_src/mavros/mavros_extras/include/**",
+        "/home/xhy/Acfly_k9/src/acfly_mavros_src/mavros/mavros_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ros2",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
